@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-I felt in love with Python around mid-2020 when building a 2-D game. I was learning about Object-Oriented Programming as part of an online Computer Science course I was undertaking. Since then I have grown into loving
-the elegance, syntax, readability and simplicity of the Python Programming Language.
+I felt in love with Programming around mid-2020 when building a 2-D Python game. I was learning about Object-Oriented Programming as part of an online Computer Science course I was undertaking. Since then, I have developed a strong interest in building and solving problems using code.
 
-I have done several personal projects with the core Python Language itself, and with Python frameworks,
-including Django, Django Rest Framework, FastAPI and Flask. I appreciate the versatility of Python, you could solve almost any computational or real-world problems with the language. You can't confidently say that about JavaScript, can you?
+My to-go programming languages are C and Python. C because it's an extremely powerful language. Also, you can't become a 10X programmer without falling in love with C, or can you? Python, because, well, it's simple and elegant. Also you can build practically anything with it.
 
-At the moment, I am open to any entry-level to mid-level Python backend developer positions, ideally in a startup environment where a lot of building stuff from scratch is ongoing. Send me an email at nodhiambo01@gmail.com or reach me at +254 795 555 416
+At the moment, I am open to any internships, entry-level or mid-level roles in where problems are getting solved in Python or C. Send me an email at nodhiambo01@gmail.com or reach me at +254 795 555 416
